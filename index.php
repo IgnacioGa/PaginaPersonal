@@ -129,9 +129,9 @@
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                         <div class="skill">
-                            <h4>C#</h4>
+                            <h4>Python</h4>
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="80"></div><!-- /.progress-bar -->
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                     </div>
@@ -139,27 +139,27 @@
                         <div class="skill">
                             <h4>Traduccion</h4>
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div><!-- /.progress-bar -->
-                            </div><!-- /.progress -->
-                        </div><!-- /.skill -->
-                        <div class="skill">
-                            <h4>Java</h4>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="60"></div><!-- /.progress-bar -->
-                            </div><!-- /.progress -->
-                        </div><!-- /.skill -->
-                    </div>
-                    <div class="col-md-4">
-                        <div class="skill">
-                            <h4>Php</h4>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div><!-- /.progress-bar -->
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="75"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                         <div class="skill">
                             <h4>Javascript</h4>
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="100"></div><!-- /.progress-bar -->
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="70"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                    </div>
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4>SQL</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4>Django</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                     </div>
@@ -319,7 +319,7 @@
                 <div class="col-sm-4 col-xs-12">
                     <a class="icon facebook-bg" href="#"><i class="icon-facebook"></i></a>
                     <a class="icon twitter-bg" href="https://twitter.com/IgnacioGallo14"><i class="icon-twitter"></i></a>
-                    <a class="icon gplus-bg" href="#"><i class="icon-linkedin"></i></a>
+                    <a class="icon gplus-bg" href="https://www.linkedin.com/in/ignacio-gallo-1b8992191/?locale=es_ES"><i class="icon-linkedin"></i></a>
                     <a class="icon linkedin-bg" href="#"><i class="icon-gplus"></i></a>
                 </div>
                 <div class="col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3"><p class="copyright">2017. All Rights Reserved</p></div>
