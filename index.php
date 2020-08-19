@@ -318,7 +318,7 @@
             <div class="row">
                 <div class="col-sm-4 col-xs-12">
                     <a class="icon facebook-bg" href="#"><i class="icon-facebook"></i></a>
-                    <a class="icon twitter-bg" href="#"><i class="icon-twitter"></i></a>
+                    <a class="icon twitter-bg" href="https://twitter.com/IgnacioGallo14"><i class="icon-twitter"></i></a>
                     <a class="icon gplus-bg" href="#"><i class="icon-linkedin"></i></a>
                     <a class="icon linkedin-bg" href="#"><i class="icon-gplus"></i></a>
                 </div>
