@@ -19,6 +19,12 @@
 		height: 500px;
 	}
 
+	.hero .col-md-6:last-child{
+		 position: relative;
+    	left: 500px;
+    	margin-top: 30px;
+	}
+
 	/* SITEMAIN
 	================================================== */
 	/* Modal */
@@ -65,7 +71,14 @@
 	}
 
 	.hero img {
-		height: 420px;
+		height: 400px;
+	}
+
+
+	.hero .col-md-6:last-child{
+		position: relative;
+    	left: 60px;
+    	margin-top: 50px;
 	}
 
 	/* SITEMAIN
@@ -308,7 +321,13 @@
 	}
 
 	.hero img {
-		height: 360px
+		height: 350px;
+	}
+
+	.hero .col-md-6:last-child{
+		position: absolute;
+    	left: 120px;
+    	margin-top: 250px;
 	}
 
 	/* SITEMAIN
@@ -411,6 +430,15 @@
 	================================================== */
 	.hero .visible-xxs + .btn {
 		margin-top: 10px;
+	}
+	.hero img {
+		height: 180px;
+	}
+
+	.hero .col-md-6:last-child{
+		 position: relative;
+    	left: 2px;
+    	margin-top: 300px;
 	}
 
 	/* SITEMAIN
